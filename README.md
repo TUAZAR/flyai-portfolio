@@ -32,6 +32,7 @@ AI 기술을 활용한 실생활 서비스 개발에 관심이 있습니다.
 ### 3. 바이브 코딩을 이용한 VR 게임 개발
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/80c98f1f-c580-4b51-bb9a-84e3310a1061" />
 
+- https://github.com/RubiksCube33/Deepong
 - 고전 게임 Pong을 2인 로컬 VR 게임으로 리메이크
 - 개발 전반에 거쳐 AI 에이전트를 이용해 개발
 - 역할: 네트워크 담당
