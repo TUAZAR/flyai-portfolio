@@ -38,5 +38,5 @@ AI 기술을 활용한 실생활 서비스 개발에 관심이 있습니다.
 - 역할: 네트워크 담당
 
 ## 📫 GitHub & Contact
-- GitHub: [[github.com/yourID](https://github.com/yourID)](https://github.com/TUAZAR)
+- GitHub: https://github.com/TUAZAR
 - Email: dan341397@gmail.com
